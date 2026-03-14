@@ -1,3 +1,5 @@
 #  Connect and Protect: Networks and Network Security
 
 This module presents a comprehensive overview of security frameworks and controls, with a focus on their application in mitigating organizational risk. It examines the CIA triad as a foundational model of information security, alongside an exploration of various National Institute of Standards and Technology (NIST) frameworks and their role in guiding security practices. The module further provides a detailed explanation of security ethics, underscoring the professional principles and responsibilities that govern conduct within the security field.
+
+  
